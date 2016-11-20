@@ -1,2 +1,3 @@
 # hello-world
-Say hello to GitHub.
+Say hello to GitHub, by ushiwatat.
+
